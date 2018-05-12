@@ -1,0 +1,29 @@
+_repo: Modern-Illustration_40322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+description: ''
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40322'
+  lccn: 04010669
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Illustration of books'
+title: Modern Illustration
+url: http://www.gutenberg.org/ebooks/40322
